@@ -1,1 +1,1 @@
-# Lightweight_ORSI_SOD_Models
+The source code will be published after the paper is officially accepted.
